@@ -15,6 +15,7 @@
 1491. toFixed, reduce, sort
 1502. Set, array
 1523. Ternary, Math.floor
+1588. own math algo
 1672. map, reduce, sort
 1779. forEach, Math.abs, Infinity
 1790. split, join, sort string

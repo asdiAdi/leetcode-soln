@@ -1,6 +1,3 @@
-const fruits = new Map([
-    ["apples", 500],
-    ["bananas", 300],
-    ["oranges", 200]
-  ]);
+let fruits = [1,2]
+fruits =fruits.slice(0,3)
 console.log(fruits)
