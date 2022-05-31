@@ -3,8 +3,11 @@
 234. Floyd's tortoise and hare Algorithm
 383. Optimization
 202. Set, x**y means power(x,y), [m , n] = [n , 0] reassigning values
+283. splice
+389. split, sort, find
 412. Hashmap
 496. Map, forEach, map
+566. flat, map
 589. depth-first search - use recursion, n-ary tree, Preorder traversal
 876. Linked List
 976. sort, array
@@ -15,8 +18,11 @@
 1491. toFixed, reduce, sort
 1502. Set, array
 1523. Ternary, Math.floor
+1572. trunc, mod
 1588. own math algo
 1672. map, reduce, sort
+1678. split, join
+1768. strings
 1779. forEach, Math.abs, Infinity
 1790. split, join, sort string
 1822. reduce, include, filter
